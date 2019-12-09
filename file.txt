@@ -1,15 +1,4 @@
 text text
 amazing code here
 #comenting about code
-git is fun git is great
-line of code ede
-line of code 2
-line of code 3
-line of code 4
-line of code 5
-line of code 6
-line of code 7
-line of code 8
-line of code 9
-line of code 10
-line of code 11
+BUg Bug Bug Bug Bug Bug!!!!!!!
